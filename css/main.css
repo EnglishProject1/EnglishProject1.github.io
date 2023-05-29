@@ -50,7 +50,7 @@ h5 {
   margin: auto;
   background: inherit;
   overflow: hidden;
-  box-shadow: 0 0 64px 0 rgba(56, 56, 56, 0.66);
+  box-shadow: 0 0 64px 0 rgb(166, 168, 29);
   z-index: 1;
 }
 
