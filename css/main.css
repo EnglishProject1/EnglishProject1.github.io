@@ -329,8 +329,8 @@ h5 {
 
 .label {
   border-radius: 8px;
-  color: #a5a313;
-  background-color: rgba(181, 184, 30, 0.801);
+  color: #fff;
+  background-color: rgba(0,0,0,0.3);
   font-family: "Open Sans", sans-serif;
   font-size: 0.6em;
   margin: auto 16px auto 8px;
