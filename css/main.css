@@ -178,11 +178,11 @@ h5 {
 }
 
 .layout section .project .details .links span {
-  color: rgba(255, 255, 255, 0.333);
+  color: rgba(209, 212, 23, 0.747);
 }
 
 .layout footer {
-  color: rgba(255, 255, 255, 0.333);
+  color: rgba(209, 212, 23, 0.747);
   margin-bottom: 32px;
 }
 
@@ -217,7 +217,7 @@ h5 {
 /* Only appears in Edge and IE. */
 :-ms-lang(x),
 .layout {
-  background-color: rgba(196, 170, 25, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Button */
